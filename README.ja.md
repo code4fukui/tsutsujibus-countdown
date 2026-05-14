@@ -6,7 +6,7 @@
 
 ## デモ
 
-**https://code4fukui.github.io/tsutsujibus-countdown/**
+**https://github.com/code4fukui/tsutsujibus-countdown
 
 ## 機能
 

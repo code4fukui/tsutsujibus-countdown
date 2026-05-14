@@ -8,7 +8,7 @@ The app features a pink-themed interface with dropdown menus to select an origin
 
 ## Demo
 
-**https://code4fukui.github.io/tsutsujibus-countdown/**
+**https://github.com/code4fukui/tsutsujibus-countdown
 
 ## Features
 
